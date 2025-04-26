@@ -16,8 +16,6 @@ This project is a machine learning application that recognizes handwritten digit
 - `digit_recognition.py`: Main script that builds, trains, and evaluates the CNN model.
 - `README.md`: Documentation for understanding and running the project.
 
----
-
 ## **Requirements**
 Ensure you have Python (3.8–3.12) installed along with the following libraries:
 - NumPy
